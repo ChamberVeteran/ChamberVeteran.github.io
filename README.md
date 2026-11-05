@@ -1,2 +1,3 @@
-# ChamberVeteran.github.io
-pano assets
+# pano assets
+
+Static panorama assets.
